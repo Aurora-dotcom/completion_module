@@ -1,5 +1,5 @@
 # Advanced completion
-[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/PatrickAlex2019/PhotoEditor?color=blue&label=Release&style=flat-square)](https://github.com/PatrickAlex2019/PhotoEditor/releases) [![Downloads](https://img.shields.io/github/downloads/PatrickAlex2019/PhotoEditor/total?label=Downloads&logo=github&style=flat-square)](https://github.com/PatrickAlex2019/PhotoEditor/releases
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/PatrickAlex2019/PhotoEditor?color=blue&label=Release&style=flat-square)](https://github.com/PatrickAlex2019/PhotoEditor/releases) [![Downloads](https://img.shields.io/github/downloads/PatrickAlex2019/PhotoEditor/total?label=Downloads&logo=github&style=flat-square)]
 
 # 高级材质补全模块
 Hyper1.0安卓13设备及以上 补全高级材质 补全旗舰机的各种特性 
